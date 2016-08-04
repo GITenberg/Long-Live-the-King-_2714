@@ -1,0 +1,30 @@
+_repo: Long-Live-the-King-_2714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Ferdinand William Otto, crown prince of an unspecified European country,
+  is next in line for the throne. But he's only a boy. Fleeing royal boredom for a
+  life of fun and adventure, he remains unaware of the crown's deadly enemies.
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Princes -- Fiction'
+- GITenberg
+title: Long Live the King!
+url: http://www.gutenberg.org/ebooks/2714
